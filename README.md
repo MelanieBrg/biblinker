@@ -54,10 +54,10 @@ You can try with multiple references at once !
 
 ### 🧠 Under the Hood
 
-🗃️ **Model**: google/flan-t5-base
-🔍 **Search API**: Semantic Scholar Graph API
-🖥️ **Interface**: Streamlit
-⚙️ **Language**: Python 3.10+
+- 🗃️ **Model**: google/flan-t5-base
+- 🔍 **Search API**: Semantic Scholar Graph API
+- 🖥️ **Interface**: Streamlit
+- ⚙️ **Language**: Python 3.10+
 
 ### 📁 Project Structure
 ```
